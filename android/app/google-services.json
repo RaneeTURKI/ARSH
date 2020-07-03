@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146610135251",
+    "firebase_url": "https://arsh-ps.firebaseio.com",
+    "project_id": "arsh-ps",
+    "storage_bucket": "arsh-ps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146610135251:android:d05742df87bed17ecb7426",
+        "android_client_info": {
+          "package_name": "com.arsh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146610135251-p4nuhl80j018434coe0fuufmshsa24qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeN_BHB31-1yRAj5FMt2QQSg7g1s00nkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146610135251-p4nuhl80j018434coe0fuufmshsa24qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
